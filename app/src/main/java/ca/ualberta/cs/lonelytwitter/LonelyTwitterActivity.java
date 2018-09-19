@@ -23,7 +23,7 @@ public class LonelyTwitterActivity extends Activity {
 	private static final String FILENAME = "file.sav";
 	private EditText bodyText;
 	private ListView oldTweetsList;
-	
+
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -58,6 +58,9 @@ public class LonelyTwitterActivity extends Activity {
 
 	private String[] loadFromFile() {
 		ArrayList<String> tweets = new ArrayList<String>();
+		ArrayList<Tweet> tweetList =  new ArrayList<Tweet>();
+		NormalTweet myTweet =  new NormalTweet();
+		tweetList.add(myTweet);
 		try {
 			FileInputStream fis = openFileInput(FILENAME);
 			BufferedReader in = new BufferedReader(new InputStreamReader(fis));
@@ -76,7 +79,7 @@ public class LonelyTwitterActivity extends Activity {
 		}
 		return tweets.toArray(new String[tweets.size()]);
 	}
-	
+
 	private void saveInFile(String text, Date date) {
 		try {
 			FileOutputStream fos = openFileOutput(FILENAME,
