@@ -1,4 +1,10 @@
 package ca.ualberta.cs.lonelytwitter;
+/**
+ * the main activity of the lonelyTwitter
+ * in this activity, the program will display tweet data form the file
+ * and record the changes or new tweet to the file
+ * user can add a new tweet or clear the record in the file
+ */
 
 import android.app.Activity;
 import android.content.Context;

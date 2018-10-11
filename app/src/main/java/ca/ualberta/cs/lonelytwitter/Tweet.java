@@ -1,4 +1,7 @@
 package ca.ualberta.cs.lonelytwitter;
+/**
+ * the basic class tweet that record each single tweet post
+ */
 
 import java.util.ArrayList;
 import java.util.Date;

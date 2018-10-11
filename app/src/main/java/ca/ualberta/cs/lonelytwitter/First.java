@@ -1,4 +1,8 @@
 package ca.ualberta.cs.lonelytwitter;
+/**
+ * The abstract class that is parent to "Second" and "Third"
+ * the function giveString() need to be done in child class
+ */
 
 import java.util.Date;
 

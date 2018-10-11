@@ -1,5 +1,8 @@
 package ca.ualberta.cs.lonelytwitter;
 
+/**
+ * NormalTweet class
+ */
 public class NormalTweet extends Tweet{
     NormalTweet() {
         super();
