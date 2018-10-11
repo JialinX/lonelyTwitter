@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "ca.ualberta.cs.lonelytwitter"
-        minSdkVersion 18
+        minSdkVersion 24
         targetSdkVersion 18
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_5
