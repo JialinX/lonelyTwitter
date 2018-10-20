@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,6,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "107,197,59,158",
+                        "endColumns": "50,39,46,37",
+                        "endOffsets": "153,232,101,191"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,146,193",
+                        "endColumns": "50,39,46,37",
+                        "endOffsets": "101,141,188,226"
+                    }
+                }
+            ]
+        }
+    ]
+}
