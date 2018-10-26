@@ -16,6 +16,10 @@
         "source": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/src/main/res/layout/main.xml"
     },
     {
+        "merged": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/build/intermediates/res/merged/debug/layout_activity_edit_tweet.xml.flat",
+        "source": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/src/main/res/layout/activity_edit_tweet.xml"
+    },
+    {
         "merged": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
         "source": "/Users/jialinxie/Documents/cmput301/lab2/lonelyTwitter/app/src/main/res/drawable-mdpi/ic_launcher.png"
     }

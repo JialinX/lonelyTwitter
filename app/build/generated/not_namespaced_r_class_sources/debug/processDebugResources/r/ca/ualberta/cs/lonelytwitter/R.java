@@ -18,10 +18,14 @@ public final class R {
     public static final int oldTweetsList=0x7f020003;
     public static final int oldTweetsTitle=0x7f020004;
     public static final int save=0x7f020005;
+    public static final int tweetDate=0x7f020006;
+    public static final int tweetMessage=0x7f020007;
+    public static final int tweetTitle=0x7f020008;
   }
   public static final class layout {
-    public static final int list_item=0x7f030000;
-    public static final int main=0x7f030001;
+    public static final int activity_edit_tweet=0x7f030000;
+    public static final int list_item=0x7f030001;
+    public static final int main=0x7f030002;
   }
   public static final class string {
     public static final int app_name=0x7f040000;
