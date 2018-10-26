@@ -19,3 +19,4 @@ public class LonelyTwitterActivityTest extends ActivityInstrumentationTestCase2 
 
     }
 }
+
